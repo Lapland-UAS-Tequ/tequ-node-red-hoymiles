@@ -10,9 +10,11 @@ Starting register for microinverter Modbus data is 0x1000 = 4096. Each inverter 
 ## Install required nodes
 
 Modbus communication is implemented using 
+
 https://flows.nodered.org/node/node-red-contrib-modbus
 
 Data is parsed using:
+
 https://flows.nodered.org/node/node-red-contrib-buffer-parser
 
 ```

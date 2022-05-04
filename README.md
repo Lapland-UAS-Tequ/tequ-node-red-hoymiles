@@ -1,3 +1,9 @@
+This repository is developed in Solarctic project
+
+https://www.tequ.fi/en/project-bank/solarctic/
+
+---
+
 # tequ-node-red-hoymiles
 Read data from Hoymiles HMS microinverter in Node-RED using Hoymiles Modbus protocol.
 
